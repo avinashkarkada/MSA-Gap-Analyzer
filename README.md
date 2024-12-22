@@ -1,4 +1,5 @@
 Have you ever aligned a large set of sequences, only to find uninvited gaps in your multiple sequence alignment (MSA)?
+
 Meet the MSA Gap Analyzer Scripts—a pair of Python tools designed to help you identify and remove problematic sequences causing gaps in your MSA.
 
 gap_identifier.py
